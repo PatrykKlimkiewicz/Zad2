@@ -52,3 +52,15 @@ i tak w 2016 r. opublikowano dokument RFC 7764 który zawiera opis kilku odmian 
 *CommonMark,
 *GitHub Flavored Markdown (GFM),
 *Markdown Extra.
+
+## Podstawy składni
+
+Podany link:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis 
+podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki 
+opis w języku polskim.
+
+## Definiowanie nagłówków
+ 
+W tym celu używamy znaków kratki: #
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+![](Definiowanie naglowka.png)
