@@ -81,3 +81,16 @@ Listy nienumerowane definiujemy znakami: *,+,-
 ![](Tabele.png)
 
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
+
+## Odnośniki do zasobów
+
+[odnośnik do zasobów](www.gazeta.pl)
+[odnośnik do pliku](LICENSE.md)
+[odnośnik do kolejnego zasobu][1]
+[1]: http://google,com
+
+## Obrazki
+
+![alt text](https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów 
+internetowych
+![](logo.png) – obraz z lokalnych zasobów
