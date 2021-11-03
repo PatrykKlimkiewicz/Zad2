@@ -64,3 +64,20 @@ opis w języku polskim.
 W tym celu używamy znaków kratki: #
 Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 ![](Definiowanie naglowka.png)
+
+## Definiowanie list
+
+![](Definiowanie list.png)
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+Listy nienumerowane definiujemy znakami: *,+,-
+
+## Wyróżnianie tekstu
+
+![](wyroznianie tekstu.png)
+
+## Tabele
+
+![](Tabele.png)
+
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
